@@ -5,7 +5,7 @@ Load kindergartens from Barnehagefakta api and produce OSM file.
 
 <code>python kindergarten2osm.py [-noadjust]</code>
 
-Usage:
+Optional argument:
 * <code>-noadjust</code>: Do not adjust coordinates to middle of building.
 
 ### Notes ###
